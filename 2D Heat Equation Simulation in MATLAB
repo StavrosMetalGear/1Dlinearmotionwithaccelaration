@@ -1,0 +1,5 @@
+heat_simulation_2d/
+├── heat_simulation_2d.m       # MATLAB simulation script
+├── README.md                  # Project description
+├── output_video.avi           # (optional) sample output
+└── LICENSE                    # (optional) MIT or other license
